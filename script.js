@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BigToken Script v2
 // @namespace    https://github.com/caleb316x/bigtoken
-// @version      2.0
+// @version      2.3
 // @description  try to take over the world!
 // @author       You
 // @match        https://my.bigtoken.com/*
